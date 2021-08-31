@@ -1,6 +1,6 @@
-seudo-labeling 기반 방법론은 high confidence를 가지는 unlabeled samples을 선별해 training targets (pseudo-labels)으로 사용합니다. Decision boundary에서의 data point 밀도를 줄이므로써 entropy를 최소화하는 것으로 볼 수 있습니다.
+pseudo-labeling 기반 방법론은 high confidence를 가지는 unlabeled samples을 선별해 training targets (pseudo-labels)으로 사용합니다. Decision boundary에서의 data point 밀도를 줄이므로써 entropy를 최소화하는 것으로 볼 수 있습니다.
 
- Pseudo-labeling (PL) vs. Consistency-regularization (CR)
+## Pseudo-labeling (PL) vs. Consistency-regularization (CR)
 
 PL이 CR 보다 좋은 점은 data augmentation이 필요하지 않으며 대부분의 도메인에 적용될 수 있다는 점입니다.
 
