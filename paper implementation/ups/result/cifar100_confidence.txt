@@ -1,0 +1,45 @@
+############################# PL Iteration: 1 #############################
+Last Test Acc: 57.5, Best Test Acc: 57.63
+PL Acc (Positive): 75.19996768199078, Total Selected (Positive): 24754
+PL Acc (Negative): 99.69231171105898, Total Selected (Negative): 1454719, Unique Negative Samples: 15246
+
+############################# PL Iteration: 2 #############################
+Last Test Acc: 61.81, Best Test Acc: 62.05
+PL Acc (Positive): 69.39960094322511, Total Selected (Positive): 33078
+PL Acc (Negative): 99.6472172216087, Total Selected (Negative): 661030, Unique Negative Samples: 6922
+
+############################# PL Iteration: 3 #############################
+Last Test Acc: 63.09, Best Test Acc: 63.61
+PL Acc (Positive): 67.83906811049224, Total Selected (Positive): 35369
+PL Acc (Negative): 99.62496046269939, Total Selected (Negative): 442620, Unique Negative Samples: 4631
+
+############################# PL Iteration: 4 #############################
+Last Test Acc: 63.38, Best Test Acc: 63.38
+PL Acc (Positive): 67.59295066570907, Total Selected (Positive): 36202
+PL Acc (Negative): 99.63254419791417, Total Selected (Negative): 363309, Unique Negative Samples: 3798
+
+############################# PL Iteration: 5 #############################
+Last Test Acc: 63.35, Best Test Acc: 63.35
+PL Acc (Positive): 67.40575288733929, Total Selected (Positive): 36712
+PL Acc (Negative): 99.62098930693824, Total Selected (Negative): 314503, Unique Negative Samples: 3288
+
+############################# PL Iteration: 6 #############################
+Last Test Acc: 63.57, Best Test Acc: 63.94
+PL Acc (Positive): 67.19682445386546, Total Selected (Positive): 37033
+PL Acc (Negative): 99.63663763053934, Total Selected (Negative): 284014, Unique Negative Samples: 2967
+
+############################# PL Iteration: 7 #############################
+Last Test Acc: 62.95, Best Test Acc: 63.68
+PL Acc (Positive): 67.19585247266768, Total Selected (Positive): 37227
+PL Acc (Negative): 99.6258703318564, Total Selected (Negative): 265416, Unique Negative Samples: 2773
+
+############################# PL Iteration: 8 #############################
+Last Test Acc: 63.42, Best Test Acc: 63.49
+PL Acc (Positive): 67.25685050759381, Total Selected (Positive): 37333
+PL Acc (Negative): 99.6283066607133, Total Selected (Negative): 255318, Unique Negative Samples: 2667
+
+############################# PL Iteration: 9 #############################
+Last Test Acc: 63.05, Best Test Acc: 63.05
+PL Acc (Positive): 67.27987379341694, Total Selected (Positive): 37399
+PL Acc (Negative): 99.62596622045093, Total Selected (Negative): 248908, Unique Negative Samples: 2601
+
